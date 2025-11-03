@@ -3,24 +3,8 @@
   { "img": "https://images.unsplash.com/photo-1761838816945-021a4ebd67bc?auto=format&fit=crop&q=80&w=1600", "alt": "Snow-covered mountain peak", "category": "Nature", "pinned": false },
   { "img": "https://images.unsplash.com/photo-1761153121828-0994a82db8f3?auto=format&fit=crop&q=80&w=1600", "alt": "Fashion scene 1", "category": "Fashion", "pinned": false },
   { "img": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&q=80&w=1600", "alt": "Modern living room interior", "category": "Interior", "pinned": false },
-   { img: "https://images.unsplash.com/photo-1761675688044-0eb981b90481?auto=format&fit=crop&q=80&w=1600", alt: "Snow-covered mountains reflected in a clear lake.", category: "Nature", pinned: false },
-    { img: "https://images.unsplash.com/photo-1759132027612-131ec2c4ccfc?auto=format&fit=crop&q=80&w=1600", alt: "Rocky cliffs rise above a dry grassy field.", category: "Nature", pinned: false },
-    { img: "https://images.unsplash.com/photo-1761481777279-f85121d6d1a1?auto=format&fit=crop&q=80&w=1600", alt: "Bright yellow autumn leaves against a blue sky", category: "Nature", pinned: false },
-    { img: "https://images.unsplash.com/photo-1761577832241-45fae0ee41ea?auto=format&fit=crop&q=80&w=1600", alt: "Cluster of brown mushrooms growing on forest floor", category: "Nature", pinned: false },
-    { img: "https://images.unsplash.com/photo-1761577832301-978bc72c9a5c?auto=format&fit=crop&q=80&w=1600", alt: "Close-up of dark green fern fronds with brown needles.", category: "Nature", pinned: false },
-    { img: "https://images.unsplash.com/photo-1761346978359-34e6ebe21c6e?auto=format&fit=crop&q=80&w=1600", alt: "Rough ocean waves with white foam crashing", category: "Nature", pinned: false },
-    { img: "https://images.unsplash.com/photo-1761567494863-b3893ba0d1dc?auto=format&fit=crop&q=80&w=1600", alt: "A solitary white water lily floats serenely on the water.", category: "Nature", pinned: false },
-    { img: "https://images.unsplash.com/photo-1761414430175-02d5dc629180?auto=format&fit=crop&q=80&w=1600", alt: "Silhouette of a mountain against a fiery sunset sky", category: "Nature", pinned: false },
-    { img: "https://images.unsplash.com/photo-1761469872979-dab2084d7b49?auto=format&fit=crop&q=80&w=1600", alt: "A delicate yellow rose blooming in darkness", category: "Nature", pinned: false },
-    { img: "https://images.unsplash.com/photo-1761395043584-6ef2cfec0d6f?auto=format&fit=crop&q=80&w=1600", alt: "A variety of colorful gourds and pumpkins arranged together.", category: "Nature", pinned: false },
-    { img: "https://images.unsplash.com/photo-1743704990821-c1bed2e2e16d?auto=format&fit=crop&q=80&w=1600", alt: "A beautiful, illuminated crescent moon in the dark.", category: "Nature", pinned: false },
-    { img: "https://images.unsplash.com/photo-1761470758032-42acd372d6f5?auto=format&fit=crop&q=80&w=1600", alt: "Sun setting behind a mountain range.", category: "Nature", pinned: false },
-    { img: "https://images.unsplash.com/photo-1749103139830-db45c38de8af?auto=format&fit=crop&q=80&w=1600", alt: "The powerful waterfall cascades down a rocky cliff.", category: "Nature", pinned: false },
-    { img: "https://images.unsplash.com/photo-1761396063824-db8fffc724a6?auto=format&fit=crop&q=80&w=1600", alt: "Red seaweed on a wet sandy beach with ocean background", category: "Nature", pinned: false },
-    { img: "https://images.unsplash.com/photo-1761335044629-611c11976356?auto=format&fit=crop&q=80&w=1600", alt: "Star trails over clouds and mountain peaks at night", category: "Nature", pinned: false },
-    { img: "https://images.unsplash.com/photo-1750779940369-2b817adea9d7?auto=format&fit=crop&q=80&w=1600", alt: "Mountain and its reflection in a calm lake.", category: "Nature", pinned: false },
-
 
 ]
+
 
 
