@@ -1,6 +1,4 @@
 [
   { "img": "https://images.unsplash.com/photo-1761949155020-5088578c6187?auto=format&fit=crop&q=80&w=1600", "alt": "Nature scene 1", "category": "Nature", "pinned": false },
-  { "img": "https://images.unsplash.com/photo-1761838816945-021a4ebd67bc?auto=format&fit=crop&q=80&w=1600", "alt": "Snow-covered mountain peak", "category": "Nature", "pinned": false },
-  { "img": "https://images.unsplash.com/photo-1761153121828-0994a82db8f3?auto=format&fit=crop&q=80&w=1600", "alt": "Fashion scene 1", "category": "Fashion", "pinned": false },
-  { "img": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&q=80&w=1600", "alt": "Modern living room interior", "category": "Interior", "pinned": false }
+  { "img": "https://images.unsplash.com/photo-1761838816945-021a4ebd67bc?auto=format&fit=crop&q=80&w=1600", "alt": "Snow-covered mountain peak", "category": "Nature", "pinned": false }
 ]
